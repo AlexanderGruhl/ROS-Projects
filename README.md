@@ -3,8 +3,11 @@ ROS projects that use ROSPY to program topics, services, and actions in ROS to m
 
 Folder Descriptions:
 
+
 action_client: ROS action client that sends a goal to the action server in the action_server_example folder to fly the AR-Parrot Drone (https://github.com/AutonomyLab/ardrone_autonomy).
+
 action_server_example: ROS action server that sends the status, result, and feedback to an action client to fly the AR-Parrot Drone.
+
 actions_quiz: Another ROS action server to fly the AR-Parrot Drone.
 logger_example_pkg: ROSPY file that shows the various debug messages and allows the programmer to select which level of messages to display in the console.
 my_custom_action_msg_pkg: Holds a custom action message.
