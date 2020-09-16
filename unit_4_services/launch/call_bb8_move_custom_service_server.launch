@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="unit_4_services" type="call_bb8_move_custom_service_server.py" name="call_bb8_move_custom_node" output="screen">
+    </node>
+</launch>

@@ -1,0 +1,6 @@
+<launch>
+<node pkg="actions_quiz"
+    type="action_custom_msg.py"
+    name="drone_move"
+    output="screen" />
+</launch>

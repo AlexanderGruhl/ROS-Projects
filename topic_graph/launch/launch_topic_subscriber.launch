@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="topic_graph"
+        type="topic_subscriber.py"
+        name="subscriber_node"
+        output="screen" />
+</launch>

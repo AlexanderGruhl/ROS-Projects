@@ -1,0 +1,7 @@
+<launch>
+<!--velocity movement launcher-->
+<node pkg="my_sphero_topics"
+    type="movement_class.py"
+    name="move_sphero_test"
+    output="screen" />
+</launch>

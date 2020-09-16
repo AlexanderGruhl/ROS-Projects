@@ -1,0 +1,11 @@
+#goal
+#package_where_message_is/message_type goal_var_name
+int32 goal
+---
+#result
+#package_where_message_is/message_type result_var_name
+int32 result
+---
+#feedback
+#package_where_message_is/message_type feedback_var_name
+int32 feedback

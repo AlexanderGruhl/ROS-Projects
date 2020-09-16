@@ -1,0 +1,7 @@
+<launch>
+<!--sphero odometry class launcher-->
+<node pkg="my_sphero_topics"
+    type="odometry_class.py"
+    name="sphero_odom_subscriber"
+    output="screen" />
+</launch>

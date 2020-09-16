@@ -1,0 +1,5 @@
+<launch>
+    <!-- robot_move launch file-->
+    <node pkg="robot_move" type="move.py" name="vel_node" output="screen">
+    </node>
+</launch>

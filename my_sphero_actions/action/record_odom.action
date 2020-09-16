@@ -1,0 +1,6 @@
+#goal, empty
+---
+#result, Odometry array
+int32 total_distance_travelled
+---
+#feedback, empty

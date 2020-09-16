@@ -1,0 +1,7 @@
+<launch>
+<!--sphero imu class launcher-->
+<node pkg="my_sphero_topics"
+    type="imu_class.py"
+    name="sphero_imu_subscriber"
+    output="screen" />
+</launch>

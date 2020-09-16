@@ -1,0 +1,5 @@
+<launch>
+    <!-- simple_topic launch file-->
+    <node pkg="topic_graph" type="topic_publisher.py" name="publisher_node" output="screen">
+    </node>
+</launch>

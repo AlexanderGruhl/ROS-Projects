@@ -1,0 +1,3 @@
+<launch>
+<node pkg="action_server_example" type="drone_move_server.py" name="drone_move_server" output="screen" />
+</launch>
